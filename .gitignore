@@ -3,3 +3,4 @@
 train.csv
 venv
 bus/
+.env
